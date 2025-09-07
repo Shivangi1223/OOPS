@@ -12,7 +12,7 @@ class First{
 int main(){
     
     //Creation of object -->>
-    First f1;
+    // First f1;
     cout<<"size is : "<<sizeof(f1)<<endl;
     return 0;
 
